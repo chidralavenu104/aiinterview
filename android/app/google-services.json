@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "597482047189",
+    "project_id": "aiinterview-2152d",
+    "storage_bucket": "aiinterview-2152d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597482047189:android:c25f4fe13c49f159ae845c",
+        "android_client_info": {
+          "package_name": "com.jobmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597482047189-2et1g7tlovct21e8os2mk2auibjeq99f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobmeet",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "597482047189-a41ogk032lv9sl79qb7c0ebn81114ebo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEQ5QUOcifCsHoPXQtEzgZISmgK8bvQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597482047189-a41ogk032lv9sl79qb7c0ebn81114ebo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
